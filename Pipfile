@@ -5,11 +5,11 @@ name = "pypi"
 
 [packages]
 dotenv = "*"
-black = "*"
 requests = "*"
 
 [dev-packages]
 pyinstaller = "*"
+black = "*"
 
 [requires]
 python_version = "3.14"
